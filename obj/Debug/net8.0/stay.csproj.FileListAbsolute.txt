@@ -1,0 +1,14 @@
+C:\Users\profa\Desktop\stay\bin\Debug\net8.0\stay.exe
+C:\Users\profa\Desktop\stay\bin\Debug\net8.0\stay.deps.json
+C:\Users\profa\Desktop\stay\bin\Debug\net8.0\stay.runtimeconfig.json
+C:\Users\profa\Desktop\stay\bin\Debug\net8.0\stay.dll
+C:\Users\profa\Desktop\stay\bin\Debug\net8.0\stay.pdb
+C:\Users\profa\Desktop\stay\obj\Debug\net8.0\stay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profa\Desktop\stay\obj\Debug\net8.0\stay.AssemblyInfoInputs.cache
+C:\Users\profa\Desktop\stay\obj\Debug\net8.0\stay.AssemblyInfo.cs
+C:\Users\profa\Desktop\stay\obj\Debug\net8.0\stay.csproj.CoreCompileInputs.cache
+C:\Users\profa\Desktop\stay\obj\Debug\net8.0\stay.dll
+C:\Users\profa\Desktop\stay\obj\Debug\net8.0\refint\stay.dll
+C:\Users\profa\Desktop\stay\obj\Debug\net8.0\stay.pdb
+C:\Users\profa\Desktop\stay\obj\Debug\net8.0\stay.genruntimeconfig.cache
+C:\Users\profa\Desktop\stay\obj\Debug\net8.0\ref\stay.dll
