@@ -12,3 +12,4 @@ C:\Users\profa\Desktop\stay\obj\Debug\net8.0\refint\stay.dll
 C:\Users\profa\Desktop\stay\obj\Debug\net8.0\stay.pdb
 C:\Users\profa\Desktop\stay\obj\Debug\net8.0\stay.genruntimeconfig.cache
 C:\Users\profa\Desktop\stay\obj\Debug\net8.0\ref\stay.dll
+C:\Users\profa\Desktop\stay\obj\Debug\net8.0\stay.sourcelink.json
